@@ -18,19 +18,9 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB (Mongoose)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
+</p>
 
 ---
 
@@ -41,6 +31,7 @@
 - Users can browse cars, view details, and book rentals
 - Built with React, Node.js, Express, and MongoDB
 - Responsive UI using Tailwind CSS
+- 🌐 **Live Demo:** https://carrentalcapstoneproject.netlify.app/
 
 ---
 
@@ -68,8 +59,9 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I believe in learning by building real-world projects!
+💡 I believe in learning by building real-world projects and continuously improving my skills.
 
 ---
 
-⭐ **Thank you for visiting my profile!**
+## ⭐ Thank You!
+Thanks for visiting my profile! Feel free to explore my projects and connect with me 🚀
